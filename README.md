@@ -1,5 +1,5 @@
 # Automatic Poetic Metre Detection
-A source code repository to the article: "Automatic Poetic Metre Detection" by Kristýna Klesnilová, Karel Klouda, and Magda Friedjungová (_TBA_).
+A source code repository to the article: "Automatic Poetic Metre Detection" by Kristýna Klesnilová, Karel Klouda, Magda Friedjungová, and Petr Plecháč. (still preprint, _TBA_)
 
 If you find this repository useful, please cite above mentioned article.
 
